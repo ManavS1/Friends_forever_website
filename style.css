@@ -15,8 +15,8 @@ body{
     display: flex;
     height: 100vh;
     width: 100%;
-    background: url(/media/pexels-francesco-ungaro-998641.jpg);
-    /* background: url(/media/20210102_153920.gif); */
+    /* background: url(/media/pexels-francesco-ungaro-998641.jpg); */
+    background: url(/media/20210102_153920.gif);
     background-attachment: fixed;
     background-size: cover;
     /* background-color:  #000000; */
