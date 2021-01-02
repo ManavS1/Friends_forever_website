@@ -15,13 +15,20 @@ body{
     display: flex;
     height: 100vh;
     width: 100%;
-    background-color:  #000000;
+    background: url(/media/pexels-francesco-ungaro-998641.jpg);
+    /* background: url(/media/20210102_153920.gif); */
+    background-attachment: fixed;
+    background-size: cover;
+    /* background-color:  #000000; */
     justify-content: center;
     align-items: center;
 }
 
 .big_box{
-    border: 10px solid #00FFFF;
+    background: url(/media/20210102_153920.gif) no-repeat;
+    background-size: cover;
+    /* background-color: black; */
+    border: 2px solid #00FFFF;
     height: 410px;
     width: 385px;
     border-radius: 25px;
@@ -33,7 +40,7 @@ body{
     flex-direction: column;
 }
 .small_box1{
-    border: 8px solid #00FFFF;
+    border: 2px solid #00FFFF;
     background: url(/media/20210102_153920.gif);
     font-size: 25px;
     border-radius: 25px;
@@ -45,7 +52,7 @@ body{
 }
 
 .small_box2{
-    border: 8px solid #00FFFF;
+    border: 2px solid #00FFFF;
     background: url(/media/20210102_153920.gif);
     font-size: 25px;
     border-radius: 25px;
@@ -56,7 +63,7 @@ body{
     text-decoration: none;
 }
 .small_box3{
-    border: 8px solid #00FFFF;
+    border: 2px solid #00FFFF;
     background: url(/media/20210102_153920.gif);
     font-size: 25px;
     border-radius: 25px;
