@@ -50,7 +50,7 @@ body{
     background: url(/media/20210102_153920.gif);
     font-size: 18px;
     border-radius: 25px;
-    padding:2% 15%;
+    padding:2% 13%;
 }
 .small_box2 a{
     color: white;
@@ -61,7 +61,7 @@ body{
     background: url(/media/20210102_153920.gif);
     font-size: 18px;
     border-radius: 25px;
-    padding:2% 11%;
+    padding:2% 10%;
 }
 .small_box3 a{
     color: white;
@@ -118,6 +118,20 @@ body{
     color: white;
     text-decoration: none;
 }
+
+/* .small_box7{
+    border: 3px solid #00FFFF;
+    background: url(/media/20210102_153920.gif);
+    font-size: 18px;
+    border-radius: 25px;
+    padding:2% 11%;
+    display: none;
+}
+
+.small_box7 a{
+    color: white;
+    text-decoration: none;
+} */
 
 /* All hover properties */
 .big_box:hover, .small_box1:hover, .small_box2:hover, .small_box3:hover, .small_box4:hover, .small_box5:hover, .small_box6:hover, .small_box7:hover{
