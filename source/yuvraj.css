@@ -54,7 +54,7 @@ body {
 }
 
 .flip-card-front .imgg {
-    background: url(../../media/demo.jpg) no-repeat;
+    background: url(../img_vid/demo.jpg) no-repeat;
     border-radius: 9px;
     background-size: cover;
     height: 90%;
