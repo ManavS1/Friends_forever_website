@@ -32,10 +32,11 @@ body{
     text-transform: capitalize;
     flex-direction: column;
     padding: 1%;
+    box-shadow: 0 0 50px 10px #00FFFF;
 }
 .small_box1{
     border: 3px solid #00FFFF;
-    background: url(../../media/background_gif.gif);
+    background: url(../img_vid/background_gif.gif);
     font-size: 25px;
     border-radius: 25px;
     padding:2% 15%;
@@ -47,7 +48,7 @@ body{
 
 .small_box2{
     border: 3px solid #00FFFF;
-    background: url(../../media/background_gif.gif);
+    background: url(../img_vid/background_gif.gif);
     font-size: 25px;
     border-radius: 25px;
     padding:2% 15%;
@@ -59,7 +60,7 @@ body{
 
 .small_box3{
     border: 3px solid #00FFFF;
-    background: url(../../media/background_gif.gif);
+    background: url(../img_vid/background_gif.gif);
     font-size: 25px;
     border-radius: 25px;
     padding:2% 9.5%;
@@ -71,7 +72,7 @@ body{
 
 .small_box4{
     border: 3px solid #00FFFF;
-    background: url(../../media/background_gif.gif);
+    background: url(../img_vid/background_gif.gif);
     font-size: 25px;
     border-radius: 25px;
     padding:2% 9.5%;
@@ -83,7 +84,7 @@ body{
 
 .small_box5{
     border: 3px solid #00FFFF;
-    background: url(../../media/background_gif.gif);
+    background: url(../img_vid/background_gif.gif);
     font-size: 25px;
     border-radius: 25px;
     padding:2% 9.5%;
@@ -95,7 +96,7 @@ body{
 
 .small_box6{
     border: 3px solid #00FFFF;
-    background: url(../../media/background_gif.gif);
+    background: url(../img_vid/background_gif.gif);
     font-size: 25px;
     border-radius: 25px;
     padding:2% 9.5%;
@@ -107,7 +108,7 @@ body{
 
 .small_box7{
     border: 3px solid #00FFFF;
-    background: url(../../media/background_gif.gif);
+    background: url(../img_vid/background_gif.gif);
     font-size: 25px;
     border-radius: 25px;
     padding:2% 9.5%;

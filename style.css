@@ -34,6 +34,7 @@ body{
     justify-content: center;
     align-items: center;
     margin-bottom: 120px;
+    box-shadow: 0 0 50px 10px #00FFFF;
 }
 
 .big_box{
@@ -49,6 +50,7 @@ body{
     flex-direction: column;
     padding: 1%;
     margin-bottom: 150px;
+    box-shadow: 0 0 50px 10px #00FFFF;
 }
 .small_box1{
     border: 3px solid #00FFFF;
@@ -57,6 +59,7 @@ body{
     font-size: 25px;
     border-radius: 25px;
     padding:4% 15%;
+    
 }
 .small_box1 a{
     color: white;
@@ -101,7 +104,7 @@ body{
 }
 
 /* All hover properties */
-.headd:hover, .big_box:hover, .small_box1:hover, .small_box2:hover, .small_box3:hover, .small_box4:hover{
+.headd:hover, .big_box:hover,.big_box:hover, .small_box1:hover, .small_box2:hover, .small_box3:hover, .small_box4:hover{
     border-color: #00FFFF;
     box-shadow: 0 0 40px #00FFFF; /*you can use inset after color to get shadow inside of boxes*/
 }
