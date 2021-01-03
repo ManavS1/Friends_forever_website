@@ -73,6 +73,6 @@ body{
     border-color: #00FFFF;
     box-shadow: 0 0 40px #00FFFF; /*you can use inset after color to get shadow inside of boxes*/
 }
-.big_box, .small_box1, .small_box2,{
+.big_box, .small_box1, .small_box2{
     transition: 0.3S ease-in-out;
 }
