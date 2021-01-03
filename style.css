@@ -78,7 +78,6 @@ body{
     text-decoration: none;
 }
 
-
 /* All hover properties */
 .big_box:hover, .small_box1:hover, .small_box2:hover, .small_box3:hover, .small_box4:hover{
     border-color: #00FFFF;

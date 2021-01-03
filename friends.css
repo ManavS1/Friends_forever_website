@@ -119,6 +119,48 @@ body{
     text-decoration: none;
 }
 
+/* ------------------right-bottom home button------------------- */
+
+.home_btn{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: aqua;
+    position: absolute;
+    bottom: 2%;
+    right: 2%;
+    text-align: center;
+    /* border: 1px solid white; */
+}
+#home_logo{
+    /* position: absolute; */
+    text-align: center;
+    font-size: 40px;
+    line-height: 50px;
+    color: black;
+}
+
+/* ------------------bottom-left back button------------------- */
+
+.home_btn2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: aqua;
+    position: absolute;
+    bottom: 2%;
+    left: 2%;
+    text-align: center;
+    /* border: 1px solid white; */
+}
+
+#home_logo2{
+    text-align: center;
+    font-size: 40px;
+    line-height: 51px;
+    color: black;
+}
+
 /* .small_box7{
     border: 3px solid #00FFFF;
     background: url(/media/20210102_153920.gif);
@@ -133,11 +175,16 @@ body{
     text-decoration: none;
 } */
 
-/* All hover properties */
+/*---------------- All hover properties--------------- */
+
 .big_box:hover, .small_box1:hover, .small_box2:hover, .small_box3:hover, .small_box4:hover, .small_box5:hover, .small_box6:hover, .small_box7:hover{
     border-color: #00FFFF;
     box-shadow: 0 0 40px #00FFFF; /*you can use inset after color to get shadow inside of boxes*/
 }
 .big_box, .small_box1, .small_box2, .small_box3, .small_box4, .small_box5, .small_box6, .small_box7{
     transition: 0.3S ease-in-out;
+}
+
+.home_btn:hover, .home_btn2:hover{
+    box-shadow: 0 0 40px 3px #00ffff;
 }
