@@ -31,6 +31,7 @@ body{
     align-items: center;
     text-transform: capitalize;
     flex-direction: column;
+    padding: 1%;
 }
 
 .small_box1{
@@ -134,8 +135,8 @@ body{
 }
 #home_logo{
     /* position: absolute; */
-    text-align: center;
-    font-size: 40px;
+    /* text-align: center; */
+    font-size: 38px;
     line-height: 50px;
     color: black;
 }
@@ -155,8 +156,8 @@ body{
 }
 
 #home_logo2{
-    text-align: center;
-    font-size: 40px;
+    /* text-align: center; */
+    font-size: 38px;
     line-height: 51px;
     color: black;
 }

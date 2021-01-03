@@ -31,6 +31,7 @@ body{
     align-items: center;
     text-transform: capitalize;
     flex-direction: column;
+    padding: 1%;
 }
 .small_box1{
     border: 3px solid #00FFFF;
